@@ -15,12 +15,12 @@
  - 😄 [Instagram](https://www.instagram.com/arthurbarbosaoliveira/)
 
 ### 📚 Meus projetos favoritos
-- [Trybe Futebol Club](-)
-  - Um projeto com aplicação front-end e back-end.   ( Estou organiznado a subida do repositório deste projeto! )
+- [Projeto Futebol Club](https://github.com/ArthurBarbosaOliveira/Projeto-Futebol-Clube)
+  - Um projeto com aplicação front-end e back-end.   (:dart:)
 - [Blogs Api](-)
-  - Uma aplicação onde fiz várias conexões com várias API's.   ( Estou organiznado a subida do repositório deste projeto! )
+  - Uma aplicação onde fiz várias conexões com várias API's.   ( :dart: )
 - [Carrinho de Compra](-)
-  - O famoso carrinho de comprar, com todas funcionalidades que se deve ter.   ( Estou organiznado a subida do repositório deste projeto! )
+  - O famoso carrinho de comprar, com todas funcionalidades que se deve ter.   ( :dart: )
 
 
 
