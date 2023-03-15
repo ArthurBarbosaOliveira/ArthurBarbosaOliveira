@@ -17,8 +17,8 @@
 ### 📚 Meus projetos favoritos
 - [Projeto Futebol Club](https://github.com/ArthurBarbosaOliveira/Projeto-Futebol-Clube)
   - Um projeto com aplicação front-end e back-end.   (:dart:)
-- [Blogs Api](-)
-  - Uma aplicação onde fiz várias conexões com várias API's.   ( :dart: )
+- [App Delivery](https://github.com/ArthurBarbosaOliveira/Projeto-App-Delivery)
+  - Uma aplicação mais completa com bastante tecnologias utilizadas, onde faço conexão com front-end e back-end, construindo um site, tendo até carrinho de compras    ( :dart: )
 - [Carrinho de Compra](-)
   - O famoso carrinho de comprar, com todas funcionalidades que se deve ter.   ( :dart: )
 
