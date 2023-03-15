@@ -5,7 +5,7 @@
 <img align="right" width='500px' height='260px' alt="Meu Git Status" title="Meu Git Status" src="https://github-readme-stats.vercel.app/api/?username=ArthurBarbosaOliveira&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 
 ### Além do Github
- - 🗃️ Atuei em alguns trabalho fora da Escola Trybe   ( Construção de um site de maquiagem de atacado usando a e-Tray, foi onde despertou interesse em estudar profundamente a Programação )
+ - 🗃️ Atuei em alguns trabalho fora da Escola [Trybe](https://www.betrybe.com/)   ( Construção de um site de maquiagem de atacado usando a e-Tray, foi onde despertou interesse em estudar profundamente a Programação )
  - 💼 Estou a procura de um ambiente inovador na tecnologia para trabalhar!
  - 🌱 Estudando React/Node/HTLML/CSS/Docker/Express/Typescript/
  - 💬 Adoro falar sobre metodologias ágeis e novas técnologias, inovações, idéias e mais... 
