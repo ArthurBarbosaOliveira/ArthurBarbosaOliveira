@@ -7,7 +7,7 @@
 ### Além do Github
  - 🗃️ Atuei em alguns trabalho fora da Escola [Trybe](https://www.betrybe.com/)   ( Construção de um site de maquiagem de atacado usando a e-Tray, foi onde despertou interesse em estudar profundamente a Programação )
  - 💼 Estou a procura de um ambiente inovador na tecnologia para trabalhar!
- - 🌱 Estudando React/Node/HTLML/CSS/Docker/Express/Typescript/
+ - 🌱 Estudando React/Node/HTLML/CSS/Docker/Express/Typescript/Java/Angula/Python
  - 💬 Adoro falar sobre metodologias ágeis e novas técnologias, inovações, idéias e mais... 
  - 📫 [Linkedin](https://www.linkedin.com/in/arthurbarbosaoliveira/)
  - 📝 [Portifólio](https://arthurbarbosaoliveira.github.io/)
